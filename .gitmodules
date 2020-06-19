@@ -1,0 +1,4 @@
+[submodule "loixs/localizacion-bolivia"]
+	path = loixs/localizacion-bolivia
+	url = git@github.com:loixs/localizacion-bolivia.git
+	branch = 13.0
