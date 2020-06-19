@@ -1,0 +1,4 @@
+[submodule "mikylz3/localizazacion-bol"]
+	path = mikylz3/localizazacion-bol
+	url = git@github.com:mikylz3/localizazacion-bol.git
+	branch = 13.0
