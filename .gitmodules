@@ -3,7 +3,3 @@
 	url = git@github.com:mikylz3/localizazacion-bol.git
 	branch = 13.0
 
-[submodule "mikylz3/facturacion-bolivia"]
-	path = mikylz3/facturacion-bolivia
-	url = git@github.com:mikylz3/facturacion-bolivia.git
-	branch = 13.0
